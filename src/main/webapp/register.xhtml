@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+		"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:a="http://xmlns.jcp.org/jsf/passthrough"
+>
+<h:head>
+	<h:outputStylesheet name="main.css" library="css"/>
+	<h:outputStylesheet name="bootstrap.css" library="css"/>
+</h:head>
+<h:body>
+
+	<h:form styleClass="form=base">
+		<h:outputText rendered="#{flash.containsKey('error-message')}" value="#{flash['error-message']}"/>
+		<div class="form-group">
+			<h:inputText id="first-name" styleClass="form-control" a:placeholder="Firstname"
+						 value="#{registerRequest.firstName}"/>
+		</div>
+		<div class="form-group">
+			<h:inputText id="last-name" styleClass="form-control" a:placeholder="Lastname"
+						 value="#{registerRequest.lastName}"/>
+		</div>
+		<div class="form-group">
+			<h:inputText id="birthdate" styleClass="form-control" a:placeholder="Birthdate"
+						 value="#{registerRequest.birthdate}"/>
+		</div>
+		<div class="form-group">
+			<h:inputText id="username" styleClass="form-control" a:placeholder="Username"
+						 value="#{registerRequest.username}"/>
+		</div>
+		<div class="form-group">
+			<h:inputSecret id="password" styleClass="form-control" a:placeholder="Password"
+						   value="#{registerRequest.password}"/>
+		</div>
+		<div class="form-group">
+			<h:inputSecret id="password-check" styleClass="form-control" a:placeholder="Confirm password"
+						   value="#{registerRequest.passwordCheck}"/>
+		</div>
+		<h:commandButton styleClass="btn btn-primary" value="Register"
+						 action="#{registerController.register(registerRequest)}"/><br/>
+	</h:form>
+
+</h:body>
+</html>
