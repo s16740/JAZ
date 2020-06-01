@@ -1,0 +1,8 @@
+databaseChangeLog:
+  - changeSet:
+      id: 20200509_init
+      author: Adam Tomporowski
+      sqlFile:
+        relativeToChangelogFile: true
+        spliteStatements: false
+        path: 20200509_init.sql

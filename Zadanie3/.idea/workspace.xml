@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46910755-4569-4986-89ac-29538ee1fa70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - jazapp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - jazapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - jazapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jazapp: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - jazapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jazapp: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - jazapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jazapp: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - jazapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jazapp: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cEYKzjezYlha4wFBGUoD9nAgWw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2772861" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AdamTomporowski\Desktop\java-zaw\Zad2\src\main\resources\db.changelog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AdamTomporowski\Desktop\java-zaw\21.05.2020_v2\src\main\java\pl\jaz\jazapp\webapp\register" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss Server.JBoss 19.1.0.Final1">
+    <configuration name="21.05.2020_v2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JBoss 19.1.0.Final1" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 19.1.0.Final1" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : pl.jazapp.app : app.war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63451" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : pl.jazapp.app : app.war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.postgresql: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgresql" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.postgresql: Compose Deployment" />
+      <item itemvalue="Gradle.21.05.2020_v2 [build]" />
+      <item itemvalue="JBoss Server.JBoss 19.1.0.Final1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.postgresql: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Gradle.21.05.2020_v2 [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="PostgreSQL - jazapp@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="PostgreSQL - jazapp@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@385f62a7" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46910755-4569-4986-89ac-29538ee1fa70" name="Default Changelist" comment="" />
+      <created>1590095159422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590095159422</updated>
+      <workItem from="1590095162792" duration="41328000" />
+      <workItem from="1590225083568" duration="7589000" />
+      <workItem from="1590270614571" duration="1875000" />
+      <workItem from="1590314619473" duration="2572000" />
+      <workItem from="1590791475304" duration="5155000" />
+      <workItem from="1590946384497" duration="856000" />
+      <workItem from="1590947579141" duration="337000" />
+      <workItem from="1590948219899" duration="17586000" />
+      <workItem from="1591023511821" duration="22000" />
+      <workItem from="1591023908759" duration="3125000" />
+      <workItem from="1591028695370" duration="4404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2659" y="419" key="#JBoss_Server" timestamp="1590225231366">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2659" y="419" key="#JBoss_Server/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590225231366" />
+    <state x="2472" y="178" key="#New_Docker_Connection" timestamp="1590947242357">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#New_Docker_Connection/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590947242357" />
+    <state x="2472" y="178" key="#Project_Structure" timestamp="1590096260947">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590096260947" />
+    <state x="2472" y="178" key="#SQL_Dialects" timestamp="1590951565496">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#SQL_Dialects/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590951565496" />
+    <state x="2503" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591029278759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1590943882561" />
+    <state x="2503" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591029278759" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590794956390" />
+    <state x="2334" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590225233681" />
+    <state x="2638" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590109829611">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2638" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590109829611" />
+    <state x="2685" y="212" key="#com.intellij.ide.util.MemberChooser" timestamp="1591024676471">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2685" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179165990" />
+    <state x="2685" y="212" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591024676471" />
+    <state x="2351" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590116227887">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2351" y="71" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590116227887" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590107734635">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590107734635" />
+    <state x="2886" y="238" width="738" height="797" key="#xdebugger.evaluate" timestamp="1590231650325">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2635" y="223" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179612085" />
+    <state x="2886" y="238" width="738" height="797" key="#xdebugger.evaluate/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590231650325" />
+    <state x="2494" y="28" key="CommitChangelistDialog2" timestamp="1590228108471">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2494" y="28" key="CommitChangelistDialog2/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590228108471" />
+    <state x="2657" y="268" key="FileChooserDialogImpl" timestamp="1590225229309">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2657" y="268" key="FileChooserDialogImpl/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590225229309" />
+    <state width="1293" height="141" key="GridCell.Tab.0.bottom" timestamp="1591046754244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591046754244" />
+    <state width="619" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590792257953" />
+    <state width="1551" height="331" key="GridCell.Tab.0.bottom/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571005" />
+    <state width="1293" height="141" key="GridCell.Tab.0.center" timestamp="1591046754244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="141" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591046754244" />
+    <state width="619" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590792257953" />
+    <state width="1551" height="331" key="GridCell.Tab.0.center/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571005" />
+    <state width="1293" height="141" key="GridCell.Tab.0.left" timestamp="1591046754243">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="141" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591046754243" />
+    <state width="619" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590792257953" />
+    <state width="1551" height="331" key="GridCell.Tab.0.left/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571005" />
+    <state width="1293" height="141" key="GridCell.Tab.0.right" timestamp="1591046754244">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="141" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591046754244" />
+    <state width="619" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590792257953" />
+    <state width="1551" height="331" key="GridCell.Tab.0.right/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571005" />
+    <state width="1551" height="331" key="GridCell.Tab.1.bottom" timestamp="1591026571006">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179943118" />
+    <state width="1551" height="331" key="GridCell.Tab.1.bottom/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571006" />
+    <state width="1551" height="331" key="GridCell.Tab.1.center" timestamp="1591026571006">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179943118" />
+    <state width="1551" height="331" key="GridCell.Tab.1.center/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571006" />
+    <state width="1551" height="331" key="GridCell.Tab.1.left" timestamp="1591026571005">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179943117" />
+    <state width="1551" height="331" key="GridCell.Tab.1.left/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571005" />
+    <state width="1551" height="331" key="GridCell.Tab.1.right" timestamp="1591026571006">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179943118" />
+    <state width="1551" height="331" key="GridCell.Tab.1.right/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591026571006" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1591029283517">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591029283517" />
+    <state x="2652" y="160" key="RollbackChangesDialog" timestamp="1590228106982">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2652" y="160" key="RollbackChangesDialog/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590228106982" />
+    <state x="2787" y="429" width="307" height="247" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1591025471110">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2787" y="429" width="307" height="247" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591025471110" />
+    <state x="2738" y="266" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1591021028528">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2738" y="266" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591021028528" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1590948217810">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590948217810" />
+    <state x="2665" y="232" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591024261199">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2665" y="232" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591024261199" />
+    <state x="2610" y="275" key="extract.method.dialog" timestamp="1590173607505">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="275" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590173607505" />
+    <state x="2576" y="118" width="607" height="804" key="find.popup" timestamp="1590962991975">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="118" width="607" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590962991975" />
+    <state x="2262" y="132" key="new project wizard" timestamp="1590096939601">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="132" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590096939601" />
+    <state x="2544" y="247" key="run.anything.popup" timestamp="1590230883371">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="247" key="run.anything.popup/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590230883371" />
+    <state x="2543" y="234" width="672" height="705" key="search.everywhere.popup" timestamp="1590228510282">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590179763587" />
+    <state x="2543" y="234" width="672" height="705" key="search.everywhere.popup/0.27.1920.1008/1920.0.1920.1080@1920.0.1920.1080" timestamp="1590228510282" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/jaz/jazapp/webapp/user/UserAlreadyExistsMapper.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
